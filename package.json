@@ -15,7 +15,7 @@
     "buffer"
   ],
   "devDependencies": {
-    "standard": "^8.5.0",
+    "standard": "^10.0.0-beta.0",
     "tape": "~4.6.2"
   },
   "testling": {
